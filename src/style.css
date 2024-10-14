@@ -1,0 +1,136 @@
+.background {
+  width: 393px;
+  height: 3259px;
+  background-image: url(../img/background.png);
+  margin: 0 auto;
+  position: relative;
+}
+
+.title {
+  font-stretch: condensed;
+  padding-top: 55px;
+  text-align: center;
+}
+img {
+  position: absolute;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+}
+.tshirt {
+  bottom: 2945px;
+  right: 65px;
+}
+.socks {
+  bottom: 2690px;
+  right: 200px;
+}
+.towel {
+  bottom: 2400px;
+  right: 33px;
+}
+.bandaid {
+  bottom: 2000px;
+  right: 100px;
+}
+.sticker-a {
+  bottom: 1855px;
+  right: 40px;
+}
+.sticker-b {
+  bottom: 1600px;
+  right: 220px;
+}
+.guitar-pick {
+  bottom: 1483px;
+  right: 220px;
+}
+.pin-button {
+  bottom: 1200px;
+  right: 45px;
+}
+.key-ring-a {
+  bottom: 1015px;
+  right: 45px;
+}
+.key-ring-b {
+  bottom: 945px;
+  right: 45px;
+}
+.cotton-bandana {
+  bottom: 515px;
+  right: 218px;
+}
+.reuable-a {
+  bottom: 390px;
+  right: 248px;
+}
+.reuable-b {
+  bottom: 60px;
+  right: 28px;
+}
+.LineupTshirt {
+  bottom: 2945px;
+  right: 219px;
+}
+.ReusableBag {
+  bottom: 125px;
+  left: 8px;
+}
+.CottonBandana {
+  bottom: 600px;
+  right: 10px;
+}
+.Stickers {
+  bottom: 1680px;
+  right: 90px;
+}
+.LogoSocks {
+  bottom: 2680px;
+  right: 41px;
+}
+.SloganTowel {
+  bottom: 2390px;
+  right: 190px;
+}
+.PaperBandaid {
+  bottom: 2095px;
+  right: 139px;
+}
+.KeyRings {
+  bottom: 940px;
+  right: 180px;
+}
+.GuiterPick {
+  bottom: 1290px;
+  right: 70px;
+}
+
+h1 {
+  -webkit-text-shadow: 0 0 20px blue;
+  text-shadow: 0 0 20px blue;
+}
+h1,
+p,
+span {
+  color: white;
+}
+p {
+  -webkit-text-shadow: 0 0 8px;
+  text-shadow: 0 0 8px;
+  z-index: 1;
+  font-weight: bold;
+}
+span {
+  -webkit-text-shadow: 0 0 8px;
+  text-shadow: 0 0 8px;
+  margin-top: 4.5px;
+  font-size: small;
+}
+
+* {
+  margin: 0;
+}
